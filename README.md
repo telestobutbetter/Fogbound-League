@@ -1,7 +1,10 @@
 # Fogbound-League
 Property of Jen Louise (@chronicallyjentv)
+
 Created by Telesto (@telestobutbetter)
+
 Part of Fogbound League Staff
+
 Collaboratored by 
 - Ainz (@licmidic)
 - Ghostie (@ghostiewazzap)
