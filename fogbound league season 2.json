@@ -1,6 +1,6 @@
 {
 	"Name": "Fogbound League Season 2",
-	"Version": 1782383171,
+	"Version": 1782385773,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -480,7 +480,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -511,7 +513,7 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "",
+			"KillerNotes": "Secondary Map: Shelter Woods 1\n",
 			"IsDisabled": false,
 			"Map": [
 				"6"
@@ -555,7 +557,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -592,7 +596,7 @@
 		},
 		{
 			"Name": "The Nurse",
-			"KillerNotes": "",
+			"KillerNotes": "Secondary Map: Wreckers Yard",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -647,7 +651,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -724,7 +730,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -819,7 +827,7 @@
 		},
 		{
 			"Name": "The Doctor",
-			"KillerNotes": "",
+			"KillerNotes": "Secondary Map: Coal Tower 1\n",
 			"IsDisabled": false,
 			"Map": [
 				"54"
@@ -862,7 +870,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -958,7 +968,7 @@
 		},
 		{
 			"Name": "The Cannibal",
-			"KillerNotes": "bubba doesn't go where he pleases :(",
+			"KillerNotes": "Secondary Map: Dead Sands\n\nbubba doesn't go where he pleases :(",
 			"IsDisabled": false,
 			"Map": [
 				"33"
@@ -1000,7 +1010,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -1031,7 +1043,7 @@
 		},
 		{
 			"Name": "The Nightmare",
-			"KillerNotes": "",
+			"KillerNotes": "Secondary Map: Coal Tower 1",
 			"IsDisabled": false,
 			"Map": [
 				"33"
@@ -1073,7 +1085,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -1145,7 +1159,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -1236,7 +1252,7 @@
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "",
+			"KillerNotes": "Secondary Map: Azarov's Resting Place",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -1284,7 +1300,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -1384,7 +1402,7 @@
 		},
 		{
 			"Name": "The Plague",
-			"KillerNotes": "",
+			"KillerNotes": "Secondary Map: Family Residence 2",
 			"IsDisabled": false,
 			"Map": [
 				"4"
@@ -1428,7 +1446,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -1500,7 +1520,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -1531,7 +1553,7 @@
 		},
 		{
 			"Name": "The Demogorgon",
-			"KillerNotes": "",
+			"KillerNotes": "Secondary Map: Azarov's Resting Place",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -1570,7 +1592,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -1601,7 +1625,7 @@
 		},
 		{
 			"Name": "The Oni",
-			"KillerNotes": "",
+			"KillerNotes": "Secondary Map: Wretched Shop",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -1644,7 +1668,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -1679,7 +1705,7 @@
 		},
 		{
 			"Name": "The Deathslinger",
-			"KillerNotes": "",
+			"KillerNotes": "Secondary Map: Wreckers Yard",
 			"IsDisabled": false,
 			"Map": [
 				"4"
@@ -1718,7 +1744,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -1819,7 +1847,7 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "",
+			"KillerNotes": "Secondary Map: Mount Ormond Resort 1",
 			"IsDisabled": false,
 			"Map": [
 				"4"
@@ -1867,7 +1895,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -1957,7 +1987,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -2175,7 +2207,7 @@
 		},
 		{
 			"Name": "The Artist",
-			"KillerNotes": "",
+			"KillerNotes": "Secondary Map: Family Residence 2",
 			"IsDisabled": false,
 			"Map": [
 				"5"
@@ -2213,7 +2245,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -2347,7 +2381,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -2420,7 +2456,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -2620,7 +2658,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -2777,7 +2817,7 @@
 		},
 		{
 			"Name": "The Unknown",
-			"KillerNotes": "",
+			"KillerNotes": "Secondary Map: Wrecker's Yard",
 			"IsDisabled": false,
 			"Map": [
 				"49"
@@ -2819,7 +2859,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -2850,10 +2892,10 @@
 		},
 		{
 			"Name": "The Lich",
-			"KillerNotes": "",
+			"KillerNotes": "Secondary Map: Wrecker's Yard",
 			"IsDisabled": false,
 			"Map": [
-				"33"
+				"49"
 			],
 			"BalanceTiers": [
 				0,
@@ -2892,7 +2934,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -2923,7 +2967,7 @@
 		},
 		{
 			"Name": "The Dark Lord",
-			"KillerNotes": "",
+			"KillerNotes": "Secondary Map: Coal Tower 2",
 			"IsDisabled": false,
 			"Map": [
 				"9"
@@ -3064,7 +3108,7 @@
 		},
 		{
 			"Name": "The Ghoul",
-			"KillerNotes": "",
+			"KillerNotes": "Secondary Map: Blood Lodge",
 			"IsDisabled": false,
 			"Map": [
 				"4"
@@ -3104,7 +3148,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -3139,7 +3185,7 @@
 		},
 		{
 			"Name": "The Animatronic",
-			"KillerNotes": "",
+			"KillerNotes": "Secondary Map: Coal Tower 1",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -3182,7 +3228,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
