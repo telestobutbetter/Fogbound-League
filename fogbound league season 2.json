@@ -1,6 +1,6 @@
 {
 	"Name": "Fogbound League Season 2",
-	"Version": 1782307776,
+	"Version": 1782368504,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -630,7 +630,8 @@
 				79,
 				75,
 				76,
-				68
+				68,
+				70
 			],
 			"ItemWhitelist": [
 				10,
@@ -1845,7 +1846,8 @@
 				402,
 				417,
 				418,
-				416
+				416,
+				412
 			],
 			"ItemWhitelist": [
 				0,
@@ -2597,7 +2599,8 @@
 				637,
 				635,
 				636,
-				621
+				621,
+				633
 			],
 			"ItemWhitelist": [
 				0,
@@ -3384,4 +3387,4 @@
 			]
 		}
 	]
-}
+} 
