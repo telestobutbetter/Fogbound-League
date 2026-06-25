@@ -1,6 +1,6 @@
 {
 	"Name": "Fogbound League Season 2",
-	"Version": 1782377005,
+	"Version": 1782383171,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -277,6 +277,7 @@
 				"112",
 				"253",
 				"121",
+				"124",
 				"127",
 				"36"
 			],
@@ -675,7 +676,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				3
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -1290,6 +1291,7 @@
 				"Med-Kit": {
 					"Addons": [
 						0,
+						1,
 						2
 					]
 				},
@@ -1433,6 +1435,7 @@
 				"Med-Kit": {
 					"Addons": [
 						0,
+						1,
 						2
 					]
 				},
@@ -1648,6 +1651,7 @@
 				"Med-Kit": {
 					"Addons": [
 						0,
+						1,
 						2
 					]
 				},
@@ -1721,6 +1725,7 @@
 				"Med-Kit": {
 					"Addons": [
 						0,
+						1,
 						2
 					]
 				},
@@ -1959,6 +1964,7 @@
 				"Med-Kit": {
 					"Addons": [
 						0,
+						1,
 						2
 					]
 				},
@@ -2195,8 +2201,7 @@
 			"IndividualAddonBans": [
 				518,
 				515,
-				505,
-				504
+				505
 			],
 			"ItemWhitelist": [
 				0,
@@ -2422,6 +2427,7 @@
 				"Med-Kit": {
 					"Addons": [
 						0,
+						1,
 						2
 					]
 				},
@@ -2621,6 +2627,7 @@
 				"Med-Kit": {
 					"Addons": [
 						0,
+						1,
 						2
 					]
 				},
@@ -2968,6 +2975,7 @@
 				"Med-Kit": {
 					"Addons": [
 						0,
+						1,
 						2
 					]
 				},
@@ -3103,6 +3111,7 @@
 				"Med-Kit": {
 					"Addons": [
 						0,
+						1,
 						2
 					]
 				},
