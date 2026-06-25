@@ -1,6 +1,6 @@
 {
 	"Name": "Fogbound League Season 2",
-	"Version": 1782368504,
+	"Version": 1782375325,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -12,6 +12,7 @@
 				"5",
 				"52",
 				"7",
+				"13",
 				"16",
 				"17",
 				"18",
@@ -3387,4 +3388,4 @@
 			]
 		}
 	]
-} 
+}
