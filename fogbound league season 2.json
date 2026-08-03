@@ -1,6 +1,6 @@
 {
 	"Name": "Fogbound League Season 2",
-	"Version": 1785634916,
+	"Version": 1785749790,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1652,8 +1652,10 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"261",
-				"65"
+				"6",
+				"308",
+				"65",
+				"253"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1668,8 +1670,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				9
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1684,11 +1685,7 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": [
-						0,
-						1,
-						2
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
