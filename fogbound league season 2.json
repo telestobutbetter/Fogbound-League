@@ -1,6 +1,6 @@
 {
 	"Name": "Fogbound League Season 2",
-	"Version": 1786151671,
+	"Version": 1786448419,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1657,7 +1657,6 @@
 			"SurvivorIndvPerkBans": [
 				"6",
 				"308",
-				"65",
 				"253"
 			],
 			"SurvivorComboPerkBans": [],
